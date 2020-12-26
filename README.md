@@ -12,7 +12,7 @@ A zelda-style 3D game made on unity 5
 # technology
 ## Tool
 - Unity 5 
-## Program Leaguage
+## Programming Language
  - C#
 
 
