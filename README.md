@@ -8,7 +8,8 @@ https://wmazoni-sds1.netlify.app
 This is a game like zelda, made in Unity 5.
 
 ## Game ScreenShot
-![Mobile 1](https://github.com/rafaelnunes93/mini-curso-unity-3D/blob/main/Assets/GameScreenshot/Screenshot_1.png.meta) ![Mobile 2](https://github.com/rafaelnunes93/mini-curso-unity-3D/blob/main/Assets/GameScreenshot/Screenshot_5.png)
+![Mobile 1](https://github.com/rafaelnunes93/mini-curso-unity-3D/blob/main/Assets/GameScreenshot/Screenshot_1.png)
+![Mobile 2](https://github.com/rafaelnunes93/mini-curso-unity-3D/blob/main/Assets/GameScreenshot/Screenshot_5.png)
 
 
 # technology
